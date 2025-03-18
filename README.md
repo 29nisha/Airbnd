@@ -1,5 +1,5 @@
 # 👉 Exploratory Data Analysis On Airbnb Data:
-![image](https://github.com/user-attachments/assets/585f558e-6055-45b5-a934-4119354acb75)
+                             ![image](https://github.com/user-attachments/assets/585f558e-6055-45b5-a934-4119354acb75)
 
 In this Exploratory Data Analysis project on Airbnb 2019 using "Python" to perform Data preparation, cleaning, Exploratory Data Analysis (EDA), and visualization task.
 
@@ -7,7 +7,7 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 
 The objective of the project is to perform data visualization techniques to understand the insight of the data. This project aims to apply Exploratory Data Analysis (EDA) and visualization using Python to get a visual understanding of the data.
 
-* the sample dashboard is attached below :*																						
+# the sample dashboard is attached below :																						
 																						
 																						
 																						
@@ -104,7 +104,7 @@ Airbnb has also become a popular choice for travelers who want to experience a d
 
 understanding the factors that influence Airbnb prices in New York City, or identifying patterns of all variables and Our analysis provides useful information for travelers and hosts in the city and also provides some best insights for Airbnb business.
 
-# 😊 # Created By :
+# 😊  Created By :
 
    NISHA PRASAD
    
