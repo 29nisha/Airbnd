@@ -7,7 +7,7 @@ Since 2008, guests and hosts have used Airbnb to expand on traveling possibiliti
 
 The objective of the project is to perform data visualization techniques to understand the insight of the data. This project aims to apply Exploratory Data Analysis (EDA) and visualization using Python to get a visual understanding of the data.
 
-# The sample dashboard is attached below :																						
+# 👇 The sample dashboard is attached below :																						
 																						
 																						
 																						
