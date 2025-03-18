@@ -1,6 +1,7 @@
 # Exploratory Data Analysis On Airbnb Data
 
-https://jayvas.com/wp-content/uploads/2020/11/airbnb-real-estate-company.jpg
+![image](https://github.com/user-attachments/assets/8f7faee8-2d44-4690-8c88-7925c721f0cf)
+
 
 
 In this Exploratory Data Analysis project on Airbnb 2019 using "Python" to perform Data preparation, cleaning, Exploratory Data Analysis (EDA), and visualization task.
